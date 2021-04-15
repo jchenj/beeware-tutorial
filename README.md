@@ -1,3 +1,3 @@
 # beeware-tutorial
 
-This is the tutorial for beeware. 
+This right here is the tutorial for beeware. 
